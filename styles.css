@@ -1,1 +1,35 @@
-/*  your css code here. If applicable */
+
+            body{
+                background-color: lightgoldenrodyellow;
+                
+            }
+            .imageContainer{
+                width: 500px;
+                display: grid;
+                grid-template-columns: 200px 600px 200px;
+                grid-template-rows: 200px 400px;
+            }
+            .box{
+               border: 1px solid black;
+               
+            }
+            #a{
+               
+                padding: 10px;
+                list-style-type: none;
+                
+            }
+            #b{
+                padding: 10px;
+            }
+            #c{
+                
+                padding: 10px;
+            }
+            #d{
+             border: 1px solid black;
+            }
+            #e{
+                
+                border: 1px solid black
+            }
